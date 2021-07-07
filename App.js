@@ -86,7 +86,7 @@ const style = StyleSheet.create({
     color: '#399fff'
   },
   Buttonlogin:{
-    marginTop: '8%',
+    marginTop: '9%',
     backgroundColor: '#399fff',
     width: '90%',
     height: 42,
